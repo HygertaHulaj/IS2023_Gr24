@@ -13,21 +13,21 @@ Sistemi Operativ: Windows/Linux
 ### Hapat e ekzekutimit:
 #### Hapi 1: Klonimi i projektit nga GitHub-i përmes komandës së mëposhtme.
 
-git clone
+git clone https://github.com/HygertaHulaj/IS2023_Gr24
 
 #### Hapi 2: Aplikimi i klientit
-1. Shkoni te directory i klientit
+1. Shkoni te direktori i klientit
 2. Hapni client.sln me Visual Studio
 3. Pastaj kompajlojmë me komandën "build" dhe ekzekutojmë me komandën "run".
 
 #### Hapi 3: Aplikimi i serverit
-1. Shkoni te directory e serverit
+1. Shkoni te direktori e serverit
 2. Hap server.sln me Visual Studio
 3. Pastaj kompajlojmë me komandën "build" dhe ekzekutojmë me komandën "run".
 
 ### Si të përdornim
-1. Hapni fillimisht aplikacionin e serverit dhe klikoni butonin e "listen" për dëgjimin me numrin e portit së dëshiruar ose e mbajmë ashtu siç është.
-2. Pastaj hapni aplikacionin e klientit dhe klikoni Connect with server port. Dhe pastaj klikojmë Share My Screen.
+1. Hapim fillimisht aplikacionin e serverit dhe klikoni butonin e "listen" për dëgjimin me numrin e portit së dëshiruar ose e mbajmë ashtu siç është.
+2. Pastaj hapim aplikacionin e klientit dhe klikojmë "Connect with server port". Dhe pastaj klikojmë "Share My Screen".
 
 Pamja e programit pas ekzekutimit të programit :
 ![alt text](https://github.com/SojebSikder/remote-desktop-viewer/blob/main/ss/img1.PNG?raw=true)
